@@ -1,0 +1,93 @@
+//代理商管理、详情
+//{
+//  "dataList":[
+//    {
+//      "id":"",
+//      "name":"广东乐达教育信息科技",
+//      "grade":"一级代理商",
+//      "area":"广东省",
+//      "address":"广东省广州市天河区xxxx",
+//      "tel":"020-85558666",
+//      "businessLicense":"",
+//      "legalPersonInfo":null,
+//      "createTime":"2017-04-11",
+//      "remark":"无",
+//      "account":"ledajiaoyu-gz",
+//      "pwd":"ledajiaoyu123"
+//    },
+//    {
+//      "id":"",
+//      "name":"广东乐达教育信息科技",
+//      "grade":"一级代理商",
+//      "area":"广东省",
+//      "address":"广东省广州市天河区xxxx",
+//      "tel":"020-85558666",
+//      "businessLicense":"",
+//      "legalPersonInfo":null,
+//      "createTime":"2017-04-11",
+//      "remark":"无",
+//      "account":"ledajiaoyu-gz",
+//      "pwd":"ledajiaoyu123"
+//    }
+//  ]
+//}
+//代理商审批
+//{
+//  "dataList":[
+//    {
+//      "agent":{
+//        "id":"",
+//        "name":"广东乐达教育信息科技",
+//        "grade":"一级代理商",
+//        "area":"广东省",
+//        "address":"广东省广州市天河区xxxx",
+//        "tel":"020-85558666",
+//        "businessLicense":"",
+//        "legalPersonInfo":null,
+//        "createTime":"2017-04-11",
+//        "remark":""
+//      },
+//      "submitTime":"2017-12-11 09：22",
+//    }
+//  ]
+//}
+//学校审批
+{
+  "dataList":[
+    {
+      "id":"",
+      "university":{
+        "name":"广东乐达教育信息科技",
+        "address":"广东省广州市天河区xxxx",
+        "tel":"020-85558666",
+        "businessLicense":"",
+        "legalPersonInfo":null,
+        "agent":{
+          "id":"",
+          "name":"广东乐达教育信息科技",
+          "grade":"一级代理商",
+          "area":"广东省",
+          "address":"广东省广州市天河区xxxx",
+          "tel":"020-85558666",
+          "businessLicense":"",
+          "legalPersonInfo":null,
+          "createTime":"2017-04-11",
+          "remark":"",
+          "superiorAgent":{
+            "id":"",
+            "name":"广东乐达教育信息科技",
+            "grade":"一级代理商",
+            "area":"广东省",
+            "address":"广东省广州市天河区xxxx",
+            "tel":"020-85558666",
+            "businessLicense":"",
+            "legalPersonInfo":null,
+            "createTime":"2017-04-11",
+            "remark":""
+          }
+        }
+      },
+      "submitTime":"2017-12-11 09：22"
+    }
+  ]
+}

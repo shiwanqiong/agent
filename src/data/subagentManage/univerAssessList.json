@@ -1,0 +1,1115 @@
+{
+  "dataList": [
+    {
+      "id": "cfeF3d6F-df21-fcaE-5967-1B27061d1AC9",
+      "agent": {
+        "id": "",
+        "name": "用起教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "贵州省 铜仁市 其它区",
+        "tel": "020-'53043211'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "高整教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "甘肃省 陇南市 康县",
+          "tel": "020-75544405",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-14",
+          "remark": ""
+        },
+        "university": {
+          "name": "中山服装学院",
+          "address": "江西省 上饶市 万年县",
+          "tel": "020-88848427",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-2-20 01:31"
+    },
+    {
+      "id": "0e9A7724-c7C5-7DBE-fc58-A9F8F5aAB2Dc",
+      "agent": {
+        "id": "",
+        "name": "给三教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "山西省 临汾市 翼城县",
+        "tel": "020-'57756541'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "情使教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "青海省 海北藏族自治州 海晏县",
+          "tel": "020-79805011",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-3-6",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州工商学院",
+          "address": "甘肃省 武威市 民勤县",
+          "tel": "020-57101925",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-9-26 20:12"
+    },
+    {
+      "id": "cBEe49Ec-3ecD-fEd9-eA71-CE27FB1feC7E",
+      "agent": {
+        "id": "",
+        "name": "养作教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "湖南省 岳阳市 平江县",
+        "tel": "020-'72608576'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "土实教育信息科技有限公司",
+          "grade": "一级代理商",
+          "address": "天津 天津市 北辰区",
+          "tel": "020-67272333",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-9-24",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东美术学院",
+          "address": "湖南省 怀化市 会同县",
+          "tel": "020-95333031",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-3-4 10:04"
+    },
+    {
+      "id": "FDc7F9df-eBfb-3be9-dFA8-44298CAaE36e",
+      "agent": {
+        "id": "",
+        "name": "样命教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "四川省 资阳市 简阳市",
+        "tel": "020-'43690486'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "展要教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "四川省 泸州市 纳溪区",
+          "tel": "020-10265876",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-8",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳职业技术学院",
+          "address": "安徽省 芜湖市 繁昌县",
+          "tel": "020-51500667",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-10-20 14:29"
+    },
+    {
+      "id": "7bD1DF57-AAa4-Db81-63BD-21391eF694fb",
+      "agent": {
+        "id": "",
+        "name": "主除教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "陕西省 商洛市 镇安县",
+        "tel": "020-'41023858'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "学适教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "湖北省 襄阳市 南漳县",
+          "tel": "020-37729628",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-2",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东美术学院",
+          "address": "河北省 秦皇岛市 青龙满族自治县",
+          "tel": "020-27927447",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-4-12 21:10"
+    },
+    {
+      "id": "0abd62aE-52B7-9bbB-1cE9-3EE290d57FAA",
+      "agent": {
+        "id": "",
+        "name": "王标教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "辽宁省 朝阳市 凌源市",
+        "tel": "020-'13504517'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "物务教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "吉林省 白山市 靖宇县",
+          "tel": "020-22859863",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-3-16",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州服装学院",
+          "address": "江西省 鹰潭市 贵溪市",
+          "tel": "020-19122325",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-11-6 11:54"
+    },
+    {
+      "id": "c0eFbAb7-2314-dE3f-F2C1-C1D7BeEAF593",
+      "agent": {
+        "id": "",
+        "name": "己交教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "浙江省 绍兴市 上虞市",
+        "tel": "020-'39169802'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "越为教育信息科技有限公司",
+          "grade": "一级代理商",
+          "address": "重庆 重庆市 黔江区",
+          "tel": "020-71827475",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-7-27",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州文理学院",
+          "address": "内蒙古自治区 巴彦淖尔市 五原县",
+          "tel": "020-21893809",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-6-12 10:41"
+    },
+    {
+      "id": "ECe2BE88-644B-1457-3249-3F598459DFAe",
+      "agent": {
+        "id": "",
+        "name": "他派教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "湖北省 宜昌市 其它区",
+        "tel": "020-'96907302'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "口容教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "澳门特别行政区 离岛 -",
+          "tel": "020-93168520",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-3-13",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东美术学院",
+          "address": "安徽省 芜湖市 三山区",
+          "tel": "020-56274422",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-10-9 15:22"
+    },
+    {
+      "id": "CC6db49A-2148-c1AE-d9BD-cfA168dBdeec",
+      "agent": {
+        "id": "",
+        "name": "交级教育信息科技",
+        "grade": 3,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "福建省 泉州市 石狮市",
+        "tel": "020-'46231713'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "合样教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "青海省 海东市 循化撒拉族自治县",
+          "tel": "020-89509548",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-7-23",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东文理学院",
+          "address": "河南省 驻马店市 汝南县",
+          "tel": "020-3614470",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-7-13 14:51"
+    },
+    {
+      "id": "53f0cBBe-61dC-9BeA-eB5c-DCe3F20cbA94",
+      "agent": {
+        "id": "",
+        "name": "斗观教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "台湾 新北市 石门区",
+        "tel": "020-'47933817'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "特米教育信息科技有限公司",
+          "grade": "一级代理商",
+          "address": "贵州省 贵阳市 清镇市",
+          "tel": "020-62390163",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-9-15",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东工商学院",
+          "address": "甘肃省 临夏回族自治州 康乐县",
+          "tel": "020-18436895",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-11-9 03:03"
+    },
+    {
+      "id": "9EDdCa43-7b9D-A485-b6B8-dbDcb463fd6B",
+      "agent": {
+        "id": "",
+        "name": "干到教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "福建省 厦门市 湖里区",
+        "tel": "020-'18119942'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "子难教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "宁夏回族自治区 石嘴山市 平罗县",
+          "tel": "020-65925538",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-3-12",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东服装学院",
+          "address": "海南省 三亚市 -",
+          "tel": "020-29236068",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-2-3 03:19"
+    },
+    {
+      "id": "590cCEAd-DFb4-d4F3-E5ee-c7F1A24a8B99",
+      "agent": {
+        "id": "",
+        "name": "干革教育信息科技",
+        "grade": 3,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "香港特别行政区 九龙 黄大仙区",
+        "tel": "020-'5845322'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "不往教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "天津 天津市 滨海新区",
+          "tel": "020-68101280",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-10",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东文理学院",
+          "address": "河南省 濮阳市 南乐县",
+          "tel": "020-57922763",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-8-24 00:06"
+    },
+    {
+      "id": "bB1fb7Da-1abE-eCb5-AE23-37d73C2B4d0D",
+      "agent": {
+        "id": "",
+        "name": "族会教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "安徽省 滁州市 来安县",
+        "tel": "020-'84580246'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "常进教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "云南省 丽江市 华坪县",
+          "tel": "020-17998635",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-6-4",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳文理学院",
+          "address": "台湾 新北市 新庄区",
+          "tel": "020-42749797",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-7-7 11:21"
+    },
+    {
+      "id": "D769f5F5-7bAd-A9D1-0ee8-5ADD6fEbCF1c",
+      "agent": {
+        "id": "",
+        "name": "志选教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "山东省 日照市 莒县",
+        "tel": "020-'73045521'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "须例教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "上海 上海市 长宁区",
+          "tel": "020-97330824",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-12",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州文理学院",
+          "address": "甘肃省 嘉峪关市 -",
+          "tel": "020-70470259",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-10-16 09:35"
+    },
+    {
+      "id": "eb6333bA-Bb72-B6AA-e683-cCDeedf8e6A8",
+      "agent": {
+        "id": "",
+        "name": "保求教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "甘肃省 临夏回族自治州 和政县",
+        "tel": "020-'74401901'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "教选教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "西藏自治区 拉萨市 当雄县",
+          "tel": "020-81388164",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-8-17",
+          "remark": ""
+        },
+        "university": {
+          "name": "福建工商学院",
+          "address": "天津 天津市 河西区",
+          "tel": "020-42547821",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-8-24 15:10"
+    },
+    {
+      "id": "d4CAC4E3-8E5D-DB46-C39e-eA5bcfb6A57c",
+      "agent": {
+        "id": "",
+        "name": "成线教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "天津 天津市 河北区",
+        "tel": "020-'93008614'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "多间教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "新疆维吾尔自治区 克拉玛依市 乌尔禾区",
+          "tel": "020-70417656",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-6-3",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳舞蹈学院",
+          "address": "吉林省 白山市 江源区",
+          "tel": "020-95356973",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-8-11 12:26"
+    },
+    {
+      "id": "EeF4D2bd-F368-33Bd-dA42-e6dee322DBbC",
+      "agent": {
+        "id": "",
+        "name": "张权教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "云南省 楚雄彝族自治州 楚雄市",
+        "tel": "020-'49721038'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "机品教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "海南省 三亚市 -",
+          "tel": "020-57912552",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-8-20",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东文理学院",
+          "address": "浙江省 湖州市 安吉县",
+          "tel": "020-52495616",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-11-20 08:29"
+    },
+    {
+      "id": "2F1dBB32-4df6-cfBb-BeF4-4150D29fd5CC",
+      "agent": {
+        "id": "",
+        "name": "养较教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "黑龙江省 鸡西市 密山市",
+        "tel": "020-'6124988'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "儿农教育信息科技有限公司",
+          "grade": "一级代理商",
+          "address": "香港特别行政区 新界 荃湾区",
+          "tel": "020-85965529",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-2-10",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳美术学院",
+          "address": "贵州省 铜仁市 玉屏侗族自治县",
+          "tel": "020-31929452",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-9-21 05:35"
+    },
+    {
+      "id": "7a78DCD7-b4af-33ab-C3AB-8B9efdFaFC6A",
+      "agent": {
+        "id": "",
+        "name": "则证教育信息科技",
+        "grade": 3,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "海南省 三沙市 中沙群岛的岛礁及其海域",
+        "tel": "020-'44876951'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "存直教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "青海省 果洛藏族自治州 甘德县",
+          "tel": "020-75428892",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-1-16",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东舞蹈学院",
+          "address": "广西壮族自治区 崇左市 龙州县",
+          "tel": "020-95351618",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-8-4 22:30"
+    },
+    {
+      "id": "C6E16930-62B5-Cd6D-FD0D-D23fF8c2c9EA",
+      "agent": {
+        "id": "",
+        "name": "许照教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "上海 上海市 青浦区",
+        "tel": "020-'40798755'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "什属教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "福建省 莆田市 秀屿区",
+          "tel": "020-66121324",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-11-18",
+          "remark": ""
+        },
+        "university": {
+          "name": "中山戏曲学院",
+          "address": "陕西省 宝鸡市 扶风县",
+          "tel": "020-96765652",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-12-25 00:21"
+    },
+    {
+      "id": "f46ABDef-b6c1-5f84-4eb8-BdD5bCE3E79f",
+      "agent": {
+        "id": "",
+        "name": "气明教育信息科技",
+        "grade": 3,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "江苏省 常州市 金坛市",
+        "tel": "020-'4788930'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "身酸教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "重庆 重庆市 南岸区",
+          "tel": "020-15047683",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-6-17",
+          "remark": ""
+        },
+        "university": {
+          "name": "中山美术学院",
+          "address": "宁夏回族自治区 银川市 贺兰县",
+          "tel": "020-1935393",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-1-13 18:39"
+    },
+    {
+      "id": "F35B1ADD-1E34-955F-4AD7-5913b5e372eF",
+      "agent": {
+        "id": "",
+        "name": "时活教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "海外 海外 -",
+        "tel": "020-'71731579'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "不更教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "内蒙古自治区 乌兰察布市 商都县",
+          "tel": "020-36212446",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-9-24",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东戏曲学院",
+          "address": "江西省 吉安市 吉水县",
+          "tel": "020-46057458",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-11-24 11:48"
+    },
+    {
+      "id": "e8DD8C94-3d1C-845e-E90D-0bCD3BBdc9e7",
+      "agent": {
+        "id": "",
+        "name": "土联教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "安徽省 黄山市 徽州区",
+        "tel": "020-'18051205'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "二采教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "天津 天津市 河北区",
+          "tel": "020-83013887",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-4-2",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州服装学院",
+          "address": "山西省 运城市 新绛县",
+          "tel": "020-57663149",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-3-9 02:25"
+    },
+    {
+      "id": "3FA54dAf-bcc7-F8f4-1fE1-A3CF690bAeDb",
+      "agent": {
+        "id": "",
+        "name": "代参教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "山西省 忻州市 保德县",
+        "tel": "020-'63510565'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "样西教育信息科技有限公司",
+          "grade": "一级代理商",
+          "address": "黑龙江省 伊春市 红星区",
+          "tel": "020-23476922",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-4-1",
+          "remark": ""
+        },
+        "university": {
+          "name": "福建戏曲学院",
+          "address": "山西省 晋中市 左权县",
+          "tel": "020-3769571",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-11-26 20:00"
+    },
+    {
+      "id": "f4A1bC2E-1471-A42C-CF84-B65837CF3C76",
+      "agent": {
+        "id": "",
+        "name": "明样教育信息科技",
+        "grade": 1,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "台湾 新竹市 东区",
+        "tel": "020-'50628587'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "眼命教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "香港特别行政区 新界 荃湾区",
+          "tel": "020-53780803",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-7-3",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州舞蹈学院",
+          "address": "广西壮族自治区 钦州市 浦北县",
+          "tel": "020-67681073",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-1-7 12:56"
+    },
+    {
+      "id": "3bDcc815-E13d-DBdf-de1a-2129B371Cb31",
+      "agent": {
+        "id": "",
+        "name": "龙查教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "海南省 海口市 其它区",
+        "tel": "020-'80896746'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "情内教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "新疆维吾尔自治区 博尔塔拉蒙古自治州 其它区",
+          "tel": "020-68936287",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-9-24",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳科技学院",
+          "address": "新疆维吾尔自治区 博尔塔拉蒙古自治州 其它区",
+          "tel": "020-99717443",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-6-5 11:18"
+    },
+    {
+      "id": "4Db67fB4-cCc6-8Cc2-EF3D-9DccAdad7feF",
+      "agent": {
+        "id": "",
+        "name": "造值教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "重庆 重庆市 沙坪坝区",
+        "tel": "020-'19478114'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "光比教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "江西省 萍乡市 湘东区",
+          "tel": "020-80885671",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-6-19",
+          "remark": ""
+        },
+        "university": {
+          "name": "中山美术学院",
+          "address": "湖北省 黄石市 大冶市",
+          "tel": "020-39656837",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-7-11 05:04"
+    },
+    {
+      "id": "6aE78ccA-CF7f-7dD4-3Cb5-BdABB7D3ec17",
+      "agent": {
+        "id": "",
+        "name": "其厂教育信息科技",
+        "grade": 3,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "河北省 邯郸市 肥乡县",
+        "tel": "020-'29704546'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "何至教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "贵州省 毕节市 七星关区",
+          "tel": "020-65830186",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-1-13",
+          "remark": ""
+        },
+        "university": {
+          "name": "广州服装学院",
+          "address": "海南省 海口市 其它区",
+          "tel": "020-37439275",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-10-19 04:01"
+    },
+    {
+      "id": "7De9bef2-b9a9-fdF4-f7eF-3A2DB82aEeB5",
+      "agent": {
+        "id": "",
+        "name": "很议教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "江西省 萍乡市 芦溪县",
+        "tel": "020-'90931193'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "质界教育信息科技有限公司",
+          "grade": "三级代理商",
+          "address": "山东省 淄博市 其它区",
+          "tel": "020-75875557",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-8-14",
+          "remark": ""
+        },
+        "university": {
+          "name": "广东美术学院",
+          "address": "香港特别行政区 九龙 深水埗区",
+          "tel": "020-27092977",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-10-5 15:21"
+    },
+    {
+      "id": "DFDdC9fb-A89D-Eb94-C924-EE3ed34BEfB6",
+      "agent": {
+        "id": "",
+        "name": "为增教育信息科技",
+        "grade": 2,
+        "area": {
+          "name": "广东省",
+          "code": "44"
+        },
+        "address": "香港特别行政区 九龙 九龙城区",
+        "tel": "020-'67420445'",
+        "businessLicense": "",
+        "legalPersonInfo": null,
+        "createTime": "2017-04-11",
+        "remark": "",
+        "superiorAgent": {
+          "id": "",
+          "name": "商满教育信息科技有限公司",
+          "grade": "二级代理商",
+          "address": "吉林省 通化市 梅河口市",
+          "tel": "020-18642450",
+          "businessLicense": "",
+          "legalPersonInfo": null,
+          "createTime": "2017-5-8",
+          "remark": ""
+        },
+        "university": {
+          "name": "深圳服装学院",
+          "address": "宁夏回族自治区 吴忠市 利通区",
+          "tel": "020-37873424",
+          "businessLicense": "",
+          "legalPersonInfo": null
+        }
+      },
+      "submitTime": "2017-6-6 13:50"
+    }
+  ]
+}
+

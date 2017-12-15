@@ -1,0 +1,127 @@
+*{
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/*.el-strong{*/
+  /*fonts-weight: bold;*/
+/*}*/
+.hm-pageBar{
+  padding:20px;
+}
+.hm-crumbs{
+  height:60px;
+  line-height: 60px;
+  color:#424242;
+  font-size: 14px;
+  text-align: left;
+  padding-left:10px;
+}
+.hm-crumbs a{
+  color:#424242;
+}
+.hm-a{
+  cursor: pointer;
+}
+.hm-title-bar{
+  height:48px;
+  line-height: 48px;
+  font-size: 16px;
+  color: #999999;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px solid #E6E6E6;
+}
+.hm-searchBar{
+  padding-bottom:0;
+}
+.hm-btn-panel{
+  padding:20px 0 20px;
+  background-color: #ffffff;
+  text-align: left;
+}
+.el-button--primary {
+  color: #fff;
+  background-color: #63B6EE ;
+  border-color: #63B6EE ;
+}
+.el-radio__input.is-checked .el-radio__inner{
+  background-color: #63B6EE ;
+  border-color: #63B6EE ;
+}
+.el-radio__input.is-checked+.el-radio__label{
+  color: #63B6EE;
+}
+.el-button--primary:focus, .el-button--primary:hover {
+  background: #63B6EE;
+  border-color: #63B6EE;
+  color: #fff;
+}
+.el-main-table{
+  flex: 1;
+  background-color: #ffffff;
+}
+.el-table thead{
+  font-size:16px;
+  color: #424242;
+}
+.el-table th{
+  background-color: #F7F7F7;
+}
+.hm-searchBar{
+  padding:20px 20px 0;
+  background-color: #F8F8F8;
+}
+a{
+  color:#63B6EE;
+  margin:0 3px;
+}
+.hm-text-color{
+  color:#FF8556;
+}
+.el-pager li.active,.el-pager li:hover{
+  color:#63B6EE;
+}
+.el-input.is-active .el-input__inner, .el-input__inner:focus{
+  border-color:#63B6EE;
+}
+.el-tabs__active-bar{
+  background-color: #63B6EE;
+}
+.el-tabs__item.is-active,.el-tabs__item:hover{
+  color:#63B6EE;
+}
+/*日期*/
+.el-date-table td.today span ,.el-date-table td.available:hover{
+  color:#63B6EE;
+}
+.el-date-table td.current:not(.disabled) span{
+  background-color: #63B6EE;
+}
+.el-button{
+  padding:10px 20px;
+}
+.el-menu-item i,.el-submenu__title i{
+  color:#cccccc;
+}
+/*checkbox*/
+.el-checkbox__inner:hover,.el-checkbox__input.is-focus .el-checkbox__inner{
+  border-color:#63B6EE;
+}
+.el-checkbox__input.is-checked+.el-checkbox__label{
+  color:#63B6EE;
+}
+.el-checkbox__input.is-checked .el-checkbox__inner, .el-checkbox__input.is-indeterminate .el-checkbox__inner{
+  background-color: #63B6EE;
+  border-color: #63B6EE;
+}
+/*模态框*/
+.el-dialog{
+  width:640px !important;
+}
+@media screen and (max-width: 375px) {
+  .el-dialog{
+    width:320px !important;
+  }
+}
